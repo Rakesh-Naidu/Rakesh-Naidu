@@ -10,7 +10,7 @@
 
 ## Connect me on:
 - LinkedIn: https://www.linkedin.com/in/rakesh-naidu-guntreddi/
-- Codeforeces: https://codeforces.com/profile/rakesh23
+- Codeforces: https://codeforces.com/profile/rakesh23
 - Leetcode: https://leetcode.com/rakesh_23/
 
 _**Note:** Please **do not spam** on the above mentioned profiles._
