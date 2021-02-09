@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning **NLP**
 - 💻 I'm looking for an **internship** in **Machine Learning** domain.
 - 🖋️ I'm also a **Competitive Programmer**
-- 🎯 Goal (2021): **Make some good projects in Data science field.**
+- 🎯 Goal (2021): **To make some good projects in Data science field.**
 - 📌 Scroll down to see my **Pinned Repositories**.
 
 ## Connect me on:
