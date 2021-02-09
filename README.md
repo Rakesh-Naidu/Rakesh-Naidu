@@ -2,10 +2,10 @@
 <img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
 
 - 🎓 I'm currently pursuing **Bachelors in IT Engineering** (3rd Year) from **GITAM University**.
+- 📖 I'm currently learning **NLP**
 - 💻 I'm looking for an **internship** in **Machine Learning** domain.
 - 🖋️ I'm also a **Competitive Programmer**
-- 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
-- 🎯 Goal (2021): **Make some good projects in Data Science Field.**
+- 🎯 Goal (2021): **Make some good projects in Data science field.**
 - 📌 Scroll down to see my **Pinned Repositories**.
 
 ## Connect me on:
