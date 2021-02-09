@@ -3,9 +3,9 @@
 
 - 🎓 I'm currently pursuing **Bachelors in CS Engineering** (3rd Year) from **GITAM University**.
 - 🌱 I'm currently learning **NLP**
-- 💻 I'm looking for an **internship** in **Machine Learning** domain.
+- 💻 I'm looking for an **internship** in **Machine Learning and Data Science** domain.
 - 🖋️ I'm also a **Competitive Programmer**
-- 🎯 Goal (2021): **To make some good projects in Data science field.**
+- 🎯 Goal (2021): **To make some good projects in Data Science field.**
 - 📌 Scroll down to see my **Pinned Repositories**.
 
 ## Connect me on:
