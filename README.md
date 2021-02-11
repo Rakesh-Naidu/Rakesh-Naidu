@@ -2,7 +2,7 @@
 <img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
 
 - 🎓 I'm currently pursuing **Bachelors in CS Engineering** (3rd Year) from **GITAM University**.
-- 🌱 I'm currently learning **Image Processing**
+- 🌱 I'm currently learning **MySQL**
 - 💻 I'm looking for an **internship** in **Machine Learning and Data Science** domains.
 - 🖋️ I'm also a **Competitive Programmer**
 - 🎯 Goal (2021): **To make some good projects in Data Science field.**
