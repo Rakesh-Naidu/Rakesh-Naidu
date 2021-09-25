@@ -1,5 +1,5 @@
 ## Hey there, I'm Rakesh!
-<img align='right' src="https://us.123rf.com/450wm/darkovujic/darkovujic1807/darkovujic180700006/104370478-modern-flat-design-isometric-illustration-of-programming-can-be-used-for-website-and-mobile-website-.jpg?ver=6" width="180" height="180">
+<img align='right' src="https://us.123rf.com/450wm/darkovujic/darkovujic1807/darkovujic180700006/104370478-modern-flat-design-isometric-illustration-of-programming-can-be-used-for-website-and-mobile-website-.jpg?ver=6" width="200" height="200">
 
 - 🎓 I'm currently pursuing **Bachelors in CS Engineering** (3rd Year) from **GITAM University**.
 - 💻 I'm looking for an **internship** in **Machine Learning and Data Science** domains.
