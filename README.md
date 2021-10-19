@@ -1,7 +1,7 @@
 ## Hey there, I'm Rakesh!
 <img align='right' src="https://us.123rf.com/450wm/darkovujic/darkovujic1807/darkovujic180700006/104370478-modern-flat-design-isometric-illustration-of-programming-can-be-used-for-website-and-mobile-website-.jpg?ver=6" width="170" height="170">
 
-- 🎓 I'm currently pursuing **Bachelors in CS Engineering** (3rd Year) from **GITAM University**.
+- 🎓 I'm currently pursuing **Bachelors in CS Engineering** (4th Year) from **GITAM University**.
 - 💻 I'm looking for a **job** in **Machine Learning and Data Science** fields.
 - 🖋️ I'm also a **Competitive Programmer**
 - 🎯 Goal (2021): **To make some good projects in Data Science field.**
