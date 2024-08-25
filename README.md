@@ -4,7 +4,7 @@
 - 🎓 I'm currently working at **Amazon** as a **Software Developer Engineer**.
 - 📌 Scroll down to see my **Pinned Repositories**.
 
-## Connect me on:
+### Connect me on:
 - LinkedIn: https://www.linkedin.com/in/rakesh-naidu-guntreddi/
 - Codeforces: https://codeforces.com/profile/rakesh23
 - Leetcode: https://leetcode.com/rakesh_23/
